@@ -1,0 +1,35 @@
+export const products=[{
+    id:1,
+    name:'book',
+    price:100,
+    quantity:0,
+    img:'https://th.bing.com/th/id/R.a63e40e9440f8b5abadf100f65d4e76d?rik=AnASDY5wGrYV1g&pid=ImgRaw&r=0'
+},
+{
+    id:2,
+    name:'pen',
+    price:50,
+    quantity:100,
+    img:'https://th.bing.com/th/id/OIP.aW99LuttkuV6_pcxxPtdagHaFb?pid=ImgDet&rs=1'
+},
+{
+    id:3,
+    name:'computer',
+    price:1000,
+    quantity:10,
+    img:'https://th.bing.com/th/id/R.0d5cc74bd175997e615cef2d05adfd85?rik=5x9ckJ16S2rtpQ&riu=http%3a%2f%2fwww.itechcode.com%2fwp-content%2fuploads%2f2013%2f09%2fimage.jpg&ehk=qLMHPA4nlrUkb2%2fi6sHKHP29SD4pUncrniEdhnp%2bG%2fw%3d&risl=&pid=ImgRaw&r=0'
+},
+{
+    id:4,
+    name:'notebook',
+    price:200,
+    quantity:30,
+    img:'https://th.bing.com/th/id/R.9f5e3cefb08d23cea6112e8eeb2463dc?rik=MMYB9XLg%2fJkfrg&riu=http%3a%2f%2fphoto.oempromo.com%2fProd_918%2fThe-Duchess-Spiral-Notebook_58475427.jpg&ehk=dOGZ%2fVUfmBrtguxBDLIvieonHWYRc3BU%2fV5BXSCHj%2f0%3d&risl=&pid=ImgRaw&r=0'
+},
+{
+    id:5,
+    name:'pencil',
+    price:100,
+    quantity:10,
+    img:'https://th.bing.com/th/id/R.183b90b827704d9b0d36a90593d51fee?rik=79PbRmmYFT17Pw&pid=ImgRaw&r=0'
+},]
